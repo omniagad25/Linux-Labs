@@ -26,7 +26,7 @@
 #####     
 
 ### 4. Create the following hierarchy under your home directory:
-![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/d28f95275fbed8b5143e54ba8facc512dd688be9/Screenshot%20from%202023-11-21%2011-26-10.png)
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/12c6b059617e9ee99c42c2e5928a7f9ea410ebf6/WhatsApp%20Image%202023-11-22%20at%201.02.32%20AM.jpeg)
 
 #### a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
 ![UNFOUND]()
