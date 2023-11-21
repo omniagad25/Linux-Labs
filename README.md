@@ -26,7 +26,7 @@
 #####     
 
 ### 4. Create the following hierarchy under your home directory:
-![UNFOUND]()
+![UNFOUND](Screenshot from 2023-11-21 11-26-10.png)
 
 #### a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
 ![UNFOUND]()
