@@ -29,22 +29,23 @@
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/12c6b059617e9ee99c42c2e5928a7f9ea410ebf6/WhatsApp%20Image%202023-11-22%20at%201.02.32%20AM.jpeg)
 
 #### a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/c976d1d9948b4e54b1debb5b979e41362bc56a1c/WhatsApp%20Image%202023-11-22%20at%201.18.23%20AM.jpeg)
 
 #### b. Then remove dir12 using rm)dir –p command. State what happened to the
-![UNFOUND]()
+#### It removed the parent directory also.
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/2516acd2fbc4bc0dd9c0ff83ee6b52b011539c2f/WhatsApp%20Image%202023-11-22%20at%201.23.59%20AM.jpeg)
 
 #### c. The output of the command pwd was /home/user. Write the absolute and relative path for the file mycv
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/f4a3009b6759a23f8b4713e9066675ccbc6899ac/WhatsApp%20Image%202023-11-22%20at%201.30.32%20AM.jpeg)
 
 ### 5. Copy the /etc/passwd file to your home directory making its name is mypasswd.
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/5c2d6c7fa65adbe35d72d9f918b99823d42b6035/WhatsApp%20Image%202023-11-22%20at%201.32.39%20AM.jpeg)
 
 ### 6. Rename this new file to be oldpasswd.
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/db070a08369e412611df8e10a85d2826d976d6d7/WhatsApp%20Image%202023-11-22%20at%201.36.36%20AM.jpeg)
 
 ### 7. You are in /usr/bin, list four ways to go to your home directory
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/5d3a5c42f9cedbb6f477208d420bc0c07bbaf488/WhatsApp%20Image%202023-11-21%20at%202.49.13%20PM.jpeg)
 
 ### 8. List Linux commands in /usr/bin that start with letter w
 ![UNFOUND]()
