@@ -26,12 +26,12 @@
 #####     
 
 ### 4. Create the following hierarchy under your home directory:
-![UNFOUND](Screenshot from 2023-11-21 11-26-10.png)
+![UNFOUND]([Screenshot from 2023-11-21 11-26-10.png)](https://github.com/omniagad25/Linux-Labs/blob/d28f95275fbed8b5143e54ba8facc512dd688be9/Screenshot%20from%202023-11-21%2011-26-10.png)
 
 #### a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
 ![UNFOUND]()
 
-#### b. Then remove dir12 using rmdir –p command. State what happened to the
+#### b. Then remove dir12 using rm)dir –p command. State what happened to the
 ![UNFOUND]()
 
 #### c. The output of the command pwd was /home/user. Write the absolute and relative path for the file mycv
