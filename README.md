@@ -64,5 +64,3 @@
 
 ### 13.Display a list of all the commands that contain the keyword passwd in their man page.
 ![UNFOUND]()
-lab1
-كوبي بيست وحطو لينك الصور بس
