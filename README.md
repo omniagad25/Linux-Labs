@@ -48,7 +48,7 @@
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/5d3a5c42f9cedbb6f477208d420bc0c07bbaf488/WhatsApp%20Image%202023-11-21%20at%202.49.13%20PM.jpeg)
 
 ### 8. List Linux commands in /usr/bin that start with letter w
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/6bb4e9e8a4671b3a893161c7df907a90325348d5/WhatsApp%20Image%202023-11-21%20at%203.02.59%20PM.jpeg)
 
 ### 9. Display the first 4 lines of /etc/passwd
 ![UNFOUND]()
