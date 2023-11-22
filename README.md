@@ -88,13 +88,13 @@
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/8dba2fd65f1c8ae3433d3b26e169692c123f2224/Q6%20Lab2.png)
 
 ### 7. Modify islam's account so the password expires after 30 days
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/9f0f88224f284df451653bc48966858f38c8afdb/Q7%20Lab2.png)
 
 ### 8. Lock bad user account so he can't log in
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/86ef13933ab63a4e6308fada497cd070ea3e8a83/Q8%20Lab2.png)
 
 ### 9. Delete bad user account
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/4afc9a431a09592063c0e744698629eff62dc82c/Q9%20Lab2.png)
 
 ### 10. Delete the supplementary group called badgroup.
 ![UNFOUND]()
