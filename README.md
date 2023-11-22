@@ -51,16 +51,16 @@
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/6bb4e9e8a4671b3a893161c7df907a90325348d5/WhatsApp%20Image%202023-11-21%20at%203.02.59%20PM.jpeg)
 
 ### 9. Display the first 4 lines of /etc/passwd
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/758b13723ca51b3374cd755cbcc1e0a0d4813b7d/WhatsApp%20Image%202023-11-21%20at%203.07.03%20PM.jpeg)
 
 ### 10.Display the last 7 lines of /etc/passwd
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/874001cf16091149aba1a521a30aaca176992ffc/WhatsApp%20Image%202023-11-21%20at%203.08.14%20PM.jpeg)
 
 ### 11.Display the man pages of passwd the command and the file sequentially in one command.
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/830a515b6d6dab3662e2c6cc2d4231feb80198f2/WhatsApp%20Image%202023-11-21%20at%203.12.16%20PM.jpeg)
 
 ### 12.Display the man page of the passwd file.
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/93b6c2904c4f656bb66dfd46cc52af8668d8af6a/WhatsApp%20Image%202023-11-21%20at%203.13.40%20PM.jpeg)
 
 
 ### 13.Display a list of all the commands that contain the keyword passwd in their man page.
