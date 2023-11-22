@@ -16,7 +16,7 @@
 
 ### 3. What is the difference between rm and rmdir using man?
 #### rm 
-##### remove files or directories
+##### remove files
 ##### 
 ##### 
 #####     
