@@ -1,3 +1,5 @@
+# lab1 & 2
+
 ## lab1
 
 ### 1. Install CentOS /RHEL
