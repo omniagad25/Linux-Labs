@@ -4,23 +4,23 @@
 #### 
 
 ### 2. What is the difference between cat and more command?
-####   cat: 
+####   cat: display the whole content and it stands for "Concatenate"
 #####          
 #####      
 #####       
-####   more:
+####   more: display the content page by page
 #####      
 #####       
 
 ### 3. What is the difference between rm and rmdir using man?
 #### rm 
-##### 
+##### remove files or directories
 ##### 
 ##### 
 #####     
 #####     
 #### rmdir
-##### 
+##### remove empty directories only
 #####
 ##### 
 #####     
@@ -64,4 +64,4 @@
 
 
 ### 13.Display a list of all the commands that contain the keyword passwd in their man page.
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/d089c939b969d9ca2dfc2740175ea6498fc8c9e3/WhatsApp%20Image%202023-11-22%20at%2012.15.04%20AM.jpeg)
