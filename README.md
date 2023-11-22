@@ -99,4 +99,4 @@
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/4afc9a431a09592063c0e744698629eff62dc82c/Q9%20Lab2.png)
 
 ### 10. Delete the supplementary group called badgroup.
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/35f22746dd405bdf077f7b39c44769841b15890b/Q10%20Lab2.png)
