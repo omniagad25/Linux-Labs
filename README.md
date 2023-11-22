@@ -100,3 +100,7 @@
 
 ### 10. Delete the supplementary group called badgroup.
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/35f22746dd405bdf077f7b39c44769841b15890b/Q10%20Lab2.png)
+
+### 13. Create a folder called myteam in your home directory and change its permissions to read only for the owner.
+![UNFOUND]()
+
