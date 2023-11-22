@@ -65,3 +65,36 @@
 
 ### 13.Display a list of all the commands that contain the keyword passwd in their man page.
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/d089c939b969d9ca2dfc2740175ea6498fc8c9e3/WhatsApp%20Image%202023-11-22%20at%2012.15.04%20AM.jpeg)
+
+
+
+## Lab2
+### 1. Create a user account with the following attribute and username: islam and Fullname/comment: Islam Askar and Password: islam
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/8dba2fd65f1c8ae3433d3b26e169692c123f2224/Q1%20lab2.png)
+
+### 2. Create a user account with the following attribute and Username: baduser and Full name/comment: Bad User and Password: baduser
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/8dba2fd65f1c8ae3433d3b26e169692c123f2224/Q2%20Lab2.png)
+
+### 3. Create a supplementary (Secondary) group called pgroup with group ID of 30000
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/8dba2fd65f1c8ae3433d3b26e169692c123f2224/Q3%20%264%20Lab2.png)
+
+### 4. Create a supplementary group called badgroup
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/8dba2fd65f1c8ae3433d3b26e169692c123f2224/Q3%20%264%20Lab2.png)
+
+### 5. Add islam user to the pgroup group as a supplementary group
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/8dba2fd65f1c8ae3433d3b26e169692c123f2224/Q5%20Lab2.png)
+
+### 6. Modify the password of islam's account to password
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/8dba2fd65f1c8ae3433d3b26e169692c123f2224/Q6%20Lab2.png)
+
+### 7. Modify islam's account so the password expires after 30 days
+![UNFOUND]()
+
+### 8. Lock bad user account so he can't log in
+![UNFOUND]()
+
+### 9. Delete bad user account
+![UNFOUND]()
+
+### 10. Delete the supplementary group called badgroup.
+![UNFOUND]()
