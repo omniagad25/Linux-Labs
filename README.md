@@ -102,5 +102,44 @@
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/35f22746dd405bdf077f7b39c44769841b15890b/Q10%20Lab2.png)
 
 ### 13. Create a folder called myteam in your home directory and change its permissions to read only for the owner.
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/0637713f069da3b02166685b809aa61eb69760e9/Q13%20Lab2.png)
+
+### 14.  Log out and log in by another user.
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/0637713f069da3b02166685b809aa61eb69760e9/Q14%20Lab2.png)
+
+### 15. Try to access (by cd command) the folder (myteam)
 ![UNFOUND]()
 
+### 16.  a- Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others(using chmod in 2 different ways)
+![UNFOUND]()
+
+### b- Change your default permissions to be as above.
+![UNFOUND]()
+
+### c- What is the maximum permission a file can have, by default when it is just created? And what is that for directory.
+![UNFOUND]()
+
+### d- Change your default permissions to be no permission to everyone then create a directory and a file to verify.
+![UNFOUND]()
+
+### 17. What are the minimum permission needed for:
+## Copy a directory (permission for source directory and permissions for target parent directory)
+![UNFOUND]()
+
+## Copy a file (permission for source file and and permission for target parent directory)
+
+## Delete a file
+
+## Change to a directory
+
+## List a directory content (ls command)
+
+## View a file content (more/cat command)
+
+## Modify a file content
+
+### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
+![UNFOUND]()
+
+### 19. What is the difference between the “x” permission for a file and for a directory?
+![UNFOUND]()
