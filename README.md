@@ -108,10 +108,10 @@
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/0637713f069da3b02166685b809aa61eb69760e9/Q14%20Lab2.png)
 
 ### 15. Try to access (by cd command) the folder (myteam)
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/0e76fd3ae03c784e67963317f33a3d4c4282fdfa/Q15%20Lab2.png)
 
 ### 16.  a- Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others(using chmod in 2 different ways)
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/30a9eeddb20cd74af27ce77c6b366cd78653bb91/Q16a%20Lab2.png)
 
 ### b- Change your default permissions to be as above.
 ![UNFOUND]()
