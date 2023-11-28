@@ -134,18 +134,23 @@
 ## destination directory:-wx
 
 ## Delete a file
-
+## No permission needed (---)
 
 ## Change to a directory
+## --x
 
 ## List a directory content (ls command)
+## r--
 
 ## View a file content (more/cat command)
+## r--
 
 ## Modify a file content
+## vi ->> rw-
+## non interactive ->> -w-
 
 ### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/e38fbcfcf5f0012dea9b548a88392dcf23972989/Q18%20Lab2.png)
 
 ### 19. What is the difference between the “x” permission for a file and for a directory?
-![UNFOUND]()
+## In file it means to run the file, while in the directory it means that we can change the directory
