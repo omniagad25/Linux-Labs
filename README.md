@@ -130,9 +130,11 @@
 ## destination directory: -wx
 
 ## Copy a file (permission for source file and and permission for target parent directory)
-## r-- (in file)
+## source file: r--
+## destination directory:-wx
 
 ## Delete a file
+
 
 ## Change to a directory
 
