@@ -122,14 +122,15 @@
 ## The maximum for directory: rwx rwx rwx, "777"
 
 ### d- Change your default permissions to be no permission to everyone then create a directory and a file to verify.
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/3e132d9f8518f635580cc0de2143f71a7357ef7b/Q16d%20Lab2.png)
 
 ### 17. What are the minimum permission needed for:
 ## Copy a directory (permission for source directory and permissions for target parent directory)
-## 
+## Source directory: --x
+## destination directory: -wx
 
 ## Copy a file (permission for source file and and permission for target parent directory)
-## r-- (in file), x-- (in source directory), -wx (in destination directory)
+## r-- (in file)
 
 ## Delete a file
 
