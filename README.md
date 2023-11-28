@@ -112,21 +112,24 @@
 
 ### 16.  a- Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others(using chmod in 2 different ways)
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/30a9eeddb20cd74af27ce77c6b366cd78653bb91/Q16a%20Lab2.png)
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/d55d22edf94172d51388e9f4adfb5bbad8bbe517/Q16b%20Lab2.png)
 
 ### b- Change your default permissions to be as above.
-![UNFOUND]()
+![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/9591ca306873ded287ba34780ce74f35c724ad12/Q16bb%20Lab2.png)
 
 ### c- What is the maximum permission a file can have, by default when it is just created? And what is that for directory.
-![UNFOUND]()
+## The maximum for file: rw-rw-rw- "666"
+## The maximum for directory: rwx rwx rwx, "777"
 
 ### d- Change your default permissions to be no permission to everyone then create a directory and a file to verify.
 ![UNFOUND]()
 
 ### 17. What are the minimum permission needed for:
 ## Copy a directory (permission for source directory and permissions for target parent directory)
-![UNFOUND]()
+## 
 
 ## Copy a file (permission for source file and and permission for target parent directory)
+## r-- (in file), x-- (in source directory), -wx (in destination directory)
 
 ## Delete a file
 
