@@ -152,5 +152,5 @@
 ### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
 ![UNFOUND](https://github.com/omniagad25/Linux-Labs/blob/e38fbcfcf5f0012dea9b548a88392dcf23972989/Q18%20Lab2.png)
 
-### 19. What is the difference between the “x” permission for a file and for a directory?
+## 19. What is the difference between the “x” permission for a file and for a directory?
 ## In file it means to run the file, while in the directory it means that we can change the directory
